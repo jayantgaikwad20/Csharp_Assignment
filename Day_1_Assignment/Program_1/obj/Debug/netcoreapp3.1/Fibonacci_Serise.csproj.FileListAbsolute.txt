@@ -1,0 +1,14 @@
+E:\csharp\Fibonacci_Serise\bin\Debug\netcoreapp3.1\Fibonacci_Serise.exe
+E:\csharp\Fibonacci_Serise\bin\Debug\netcoreapp3.1\Fibonacci_Serise.deps.json
+E:\csharp\Fibonacci_Serise\bin\Debug\netcoreapp3.1\Fibonacci_Serise.runtimeconfig.json
+E:\csharp\Fibonacci_Serise\bin\Debug\netcoreapp3.1\Fibonacci_Serise.runtimeconfig.dev.json
+E:\csharp\Fibonacci_Serise\bin\Debug\netcoreapp3.1\Fibonacci_Serise.dll
+E:\csharp\Fibonacci_Serise\bin\Debug\netcoreapp3.1\Fibonacci_Serise.pdb
+E:\csharp\Fibonacci_Serise\obj\Debug\netcoreapp3.1\Fibonacci_Serise.csproj.AssemblyReference.cache
+E:\csharp\Fibonacci_Serise\obj\Debug\netcoreapp3.1\Fibonacci_Serise.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\Fibonacci_Serise\obj\Debug\netcoreapp3.1\Fibonacci_Serise.AssemblyInfoInputs.cache
+E:\csharp\Fibonacci_Serise\obj\Debug\netcoreapp3.1\Fibonacci_Serise.AssemblyInfo.cs
+E:\csharp\Fibonacci_Serise\obj\Debug\netcoreapp3.1\Fibonacci_Serise.csproj.CoreCompileInputs.cache
+E:\csharp\Fibonacci_Serise\obj\Debug\netcoreapp3.1\Fibonacci_Serise.dll
+E:\csharp\Fibonacci_Serise\obj\Debug\netcoreapp3.1\Fibonacci_Serise.pdb
+E:\csharp\Fibonacci_Serise\obj\Debug\netcoreapp3.1\Fibonacci_Serise.genruntimeconfig.cache
