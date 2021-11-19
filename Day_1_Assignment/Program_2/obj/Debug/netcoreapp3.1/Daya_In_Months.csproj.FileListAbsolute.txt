@@ -1,0 +1,14 @@
+E:\csharp\Daya_In_Months\bin\Debug\netcoreapp3.1\Daya_In_Months.exe
+E:\csharp\Daya_In_Months\bin\Debug\netcoreapp3.1\Daya_In_Months.deps.json
+E:\csharp\Daya_In_Months\bin\Debug\netcoreapp3.1\Daya_In_Months.runtimeconfig.json
+E:\csharp\Daya_In_Months\bin\Debug\netcoreapp3.1\Daya_In_Months.runtimeconfig.dev.json
+E:\csharp\Daya_In_Months\bin\Debug\netcoreapp3.1\Daya_In_Months.dll
+E:\csharp\Daya_In_Months\bin\Debug\netcoreapp3.1\Daya_In_Months.pdb
+E:\csharp\Daya_In_Months\obj\Debug\netcoreapp3.1\Daya_In_Months.csproj.AssemblyReference.cache
+E:\csharp\Daya_In_Months\obj\Debug\netcoreapp3.1\Daya_In_Months.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\Daya_In_Months\obj\Debug\netcoreapp3.1\Daya_In_Months.AssemblyInfoInputs.cache
+E:\csharp\Daya_In_Months\obj\Debug\netcoreapp3.1\Daya_In_Months.AssemblyInfo.cs
+E:\csharp\Daya_In_Months\obj\Debug\netcoreapp3.1\Daya_In_Months.csproj.CoreCompileInputs.cache
+E:\csharp\Daya_In_Months\obj\Debug\netcoreapp3.1\Daya_In_Months.dll
+E:\csharp\Daya_In_Months\obj\Debug\netcoreapp3.1\Daya_In_Months.pdb
+E:\csharp\Daya_In_Months\obj\Debug\netcoreapp3.1\Daya_In_Months.genruntimeconfig.cache
