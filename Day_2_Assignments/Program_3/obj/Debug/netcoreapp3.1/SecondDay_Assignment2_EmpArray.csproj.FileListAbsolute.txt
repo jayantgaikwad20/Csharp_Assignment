@@ -1,0 +1,14 @@
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.exe
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.deps.json
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.runtimeconfig.json
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.runtimeconfig.dev.json
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.dll
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.pdb
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.csproj.AssemblyReference.cache
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.AssemblyInfoInputs.cache
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.AssemblyInfo.cs
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.csproj.CoreCompileInputs.cache
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.dll
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.pdb
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_EmpArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_EmpArray.genruntimeconfig.cache
