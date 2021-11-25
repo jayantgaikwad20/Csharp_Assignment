@@ -1,0 +1,14 @@
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\bin\Debug\netcoreapp3.1\Program_List_Employee.exe
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\bin\Debug\netcoreapp3.1\Program_List_Employee.deps.json
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\bin\Debug\netcoreapp3.1\Program_List_Employee.runtimeconfig.json
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\bin\Debug\netcoreapp3.1\Program_List_Employee.runtimeconfig.dev.json
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\bin\Debug\netcoreapp3.1\Program_List_Employee.dll
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\bin\Debug\netcoreapp3.1\Program_List_Employee.pdb
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\obj\Debug\netcoreapp3.1\Program_List_Employee.csproj.AssemblyReference.cache
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\obj\Debug\netcoreapp3.1\Program_List_Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\obj\Debug\netcoreapp3.1\Program_List_Employee.AssemblyInfoInputs.cache
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\obj\Debug\netcoreapp3.1\Program_List_Employee.AssemblyInfo.cs
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\obj\Debug\netcoreapp3.1\Program_List_Employee.csproj.CoreCompileInputs.cache
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\obj\Debug\netcoreapp3.1\Program_List_Employee.dll
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\obj\Debug\netcoreapp3.1\Program_List_Employee.pdb
+D:\C#_Programs\FourthDay_Assignment\Program_List_Employee\obj\Debug\netcoreapp3.1\Program_List_Employee.genruntimeconfig.cache
