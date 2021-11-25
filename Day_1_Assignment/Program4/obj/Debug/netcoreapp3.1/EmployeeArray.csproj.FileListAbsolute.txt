@@ -1,0 +1,14 @@
+E:\csharp\EmployeeArray\bin\Debug\netcoreapp3.1\EmployeeArray.exe
+E:\csharp\EmployeeArray\bin\Debug\netcoreapp3.1\EmployeeArray.deps.json
+E:\csharp\EmployeeArray\bin\Debug\netcoreapp3.1\EmployeeArray.runtimeconfig.json
+E:\csharp\EmployeeArray\bin\Debug\netcoreapp3.1\EmployeeArray.runtimeconfig.dev.json
+E:\csharp\EmployeeArray\bin\Debug\netcoreapp3.1\EmployeeArray.dll
+E:\csharp\EmployeeArray\bin\Debug\netcoreapp3.1\EmployeeArray.pdb
+E:\csharp\EmployeeArray\obj\Debug\netcoreapp3.1\EmployeeArray.csproj.AssemblyReference.cache
+E:\csharp\EmployeeArray\obj\Debug\netcoreapp3.1\EmployeeArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\EmployeeArray\obj\Debug\netcoreapp3.1\EmployeeArray.AssemblyInfoInputs.cache
+E:\csharp\EmployeeArray\obj\Debug\netcoreapp3.1\EmployeeArray.AssemblyInfo.cs
+E:\csharp\EmployeeArray\obj\Debug\netcoreapp3.1\EmployeeArray.csproj.CoreCompileInputs.cache
+E:\csharp\EmployeeArray\obj\Debug\netcoreapp3.1\EmployeeArray.dll
+E:\csharp\EmployeeArray\obj\Debug\netcoreapp3.1\EmployeeArray.pdb
+E:\csharp\EmployeeArray\obj\Debug\netcoreapp3.1\EmployeeArray.genruntimeconfig.cache
