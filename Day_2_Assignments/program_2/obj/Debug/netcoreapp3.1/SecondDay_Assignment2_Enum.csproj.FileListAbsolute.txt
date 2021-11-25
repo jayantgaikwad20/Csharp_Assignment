@@ -1,0 +1,13 @@
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.exe
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.deps.json
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.runtimeconfig.json
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.runtimeconfig.dev.json
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.dll
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.pdb
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.AssemblyInfoInputs.cache
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.AssemblyInfo.cs
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.csproj.CoreCompileInputs.cache
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.dll
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.pdb
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_Enum\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_Enum.genruntimeconfig.cache
