@@ -1,0 +1,13 @@
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.exe
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.deps.json
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.runtimeconfig.json
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.runtimeconfig.dev.json
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.dll
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\bin\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.pdb
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.AssemblyInfoInputs.cache
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.AssemblyInfo.cs
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.csproj.CoreCompileInputs.cache
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.dll
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.pdb
+D:\C#_Programs\SecondDay_Assignment\SecondDay_Assignment2_ParaArray\obj\Debug\netcoreapp3.1\SecondDay_Assignment2_ParaArray.genruntimeconfig.cache
