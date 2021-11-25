@@ -1,0 +1,14 @@
+E:\csharp\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+E:\csharp\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+E:\csharp\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+E:\csharp\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+E:\csharp\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+E:\csharp\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+E:\csharp\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.AssemblyReference.cache
+E:\csharp\Employee\obj\Debug\netcoreapp3.1\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+E:\csharp\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+E:\csharp\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+E:\csharp\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+E:\csharp\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+E:\csharp\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache
