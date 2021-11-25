@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SecondDay_Assignment1_OperatorOverloading/1.0.0": {
+        "runtime": {
+          "SecondDay_Assignment1_OperatorOverloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecondDay_Assignment1_OperatorOverloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
