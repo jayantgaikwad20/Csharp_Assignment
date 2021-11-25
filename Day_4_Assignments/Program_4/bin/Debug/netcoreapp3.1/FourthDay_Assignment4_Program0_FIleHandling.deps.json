@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FourthDay_Assignment4_Program0_FIleHandling/1.0.0": {
+        "runtime": {
+          "FourthDay_Assignment4_Program0_FIleHandling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FourthDay_Assignment4_Program0_FIleHandling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
