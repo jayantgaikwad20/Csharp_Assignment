@@ -1,0 +1,13 @@
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\bin\Debug\netcoreapp3.1\xml_seralization.exe
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\bin\Debug\netcoreapp3.1\xml_seralization.deps.json
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\bin\Debug\netcoreapp3.1\xml_seralization.runtimeconfig.json
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\bin\Debug\netcoreapp3.1\xml_seralization.runtimeconfig.dev.json
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\bin\Debug\netcoreapp3.1\xml_seralization.dll
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\bin\Debug\netcoreapp3.1\xml_seralization.pdb
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\obj\Debug\netcoreapp3.1\xml_seralization.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\obj\Debug\netcoreapp3.1\xml_seralization.AssemblyInfoInputs.cache
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\obj\Debug\netcoreapp3.1\xml_seralization.AssemblyInfo.cs
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\obj\Debug\netcoreapp3.1\xml_seralization.csproj.CoreCompileInputs.cache
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\obj\Debug\netcoreapp3.1\xml_seralization.dll
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\obj\Debug\netcoreapp3.1\xml_seralization.pdb
+D:\C#_Programs\Assignment_Day_5\Program_Serialization\Binary_seralization\xml_seralizartion\xml_seralization\obj\Debug\netcoreapp3.1\xml_seralization.genruntimeconfig.cache
