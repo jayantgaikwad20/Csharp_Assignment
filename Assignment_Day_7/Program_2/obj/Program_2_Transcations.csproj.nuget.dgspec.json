@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#_Programs\\Assignment_Day_7\\Program_2_Transcations\\Program_2_Transcations.csproj": {}
+  },
+  "projects": {
+    "D:\\C#_Programs\\Assignment_Day_7\\Program_2_Transcations\\Program_2_Transcations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#_Programs\\Assignment_Day_7\\Program_2_Transcations\\Program_2_Transcations.csproj",
+        "projectName": "Program_2_Transcations",
+        "projectPath": "D:\\C#_Programs\\Assignment_Day_7\\Program_2_Transcations\\Program_2_Transcations.csproj",
+        "packagesPath": "C:\\Users\\Rushikesh\\.nuget\\packages\\",
+        "outputPath": "D:\\C#_Programs\\Assignment_Day_7\\Program_2_Transcations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rushikesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
